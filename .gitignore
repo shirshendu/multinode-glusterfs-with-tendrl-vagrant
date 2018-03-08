@@ -1,0 +1,4 @@
+node*
+*.swp
+*.swo
+.vagrant
